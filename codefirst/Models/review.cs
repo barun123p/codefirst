@@ -11,6 +11,9 @@
 
         public string Description { get; set; }
 
+        public string Description1 { get; set; }
+
+
         //Navigation Property
         public Product Product { get; set; }
     }
